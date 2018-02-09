@@ -5,6 +5,7 @@
 
 using namespace std;
 
-string Compiler() {
 
+void compile() {
+  
 }
