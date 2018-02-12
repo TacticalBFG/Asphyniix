@@ -6,6 +6,4 @@
 using namespace std;
 
 
-void compile() {
-  
-}
+// OPCODE ENCRYPTION
